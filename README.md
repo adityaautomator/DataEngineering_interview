@@ -1,7 +1,7 @@
 # DataEngineering_Interview Questions
 
 
-1 <br>What is the difference between Data Lake. </br>
+<br>1 What is the difference between Data Lake. </br>
 2.Delta Lake, and Lakehouse architecture?.
 3.Explain the Medallion Architecture in Azure Databricks. 
 4.What is Delta Lake and why is it better than Parquet? .
