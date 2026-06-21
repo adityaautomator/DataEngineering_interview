@@ -1,10 +1,10 @@
 # DataEngineering_Interview Questions
 
 
-**→What is the difference between Data Lake, 
-→Delta Lake, and Lakehouse architecture?
-→Explain the Medallion Architecture in Azure Databricks. 
-→What is Delta Lake and why is it better than Parquet? 
+1 <br>What is the difference between Data Lake. </br>
+2.Delta Lake, and Lakehouse architecture?.
+3.Explain the Medallion Architecture in Azure Databricks. 
+4.What is Delta Lake and why is it better than Parquet? .
 → Difference between managed tables and external tables in Databricks? 
 → What is the use of OPTIMIZE, VACUUM, and Z-ORDER in Delta Lake? 
 → Explain Spark transformations and actions with real examples.
